@@ -7,8 +7,8 @@ body{
 }
 
 img {
-    height: auto;
-    max-width: 48em;
+    height: 34em;
+    max-width: 34em;
     display: block;
     margin: 20px auto;
 }
